@@ -1,4 +1,4 @@
-$(document).ready(function() {
+$(function() {
 
   // your code will go here
   // https://www.codeschool.com/users/3553694.json
